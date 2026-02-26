@@ -1,1 +1,1 @@
-ReduxToolkit ulash kodlarini korishingiz 
+ReduxToolkit ulash kodlarini korishingiz foydalanishingiz 
