@@ -1,1 +1,1 @@
-Redux
+ReduxToolkit ulash kodlarini 
